@@ -5,7 +5,7 @@
 
 ---
 
-## Thông tin nhóm
+## Thông tin thành viên
 
 | MSSV | Họ tên | Tài khoản Github |
 |--------------|-------|------|
