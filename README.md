@@ -11,3 +11,7 @@
 |--------------|-------|------|
 | 18120066 | Bùi Đoàn Hữu Nhân | https://github.com/bdhnhan |
 | 18120097 | Đinh Hữu Phúc Trung | https://github.com/dhptrung |
+
+---
+
+[Kế hoạch làm việc nhóm](https://docs.google.com/spreadsheets/d/1OR6aJ7_fpxBYBOxB6elyWXMG1w_bKstGUEGPBVyWQjM/edit?usp=sharing)
